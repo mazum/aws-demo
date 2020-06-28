@@ -1,1 +1,3 @@
 # aws-demo
+* SqsDemo
+* KinesisDemo
